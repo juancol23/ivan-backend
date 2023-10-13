@@ -15,5 +15,6 @@ public class Usuario {
     private String contraseña;
     private String perfil;
     private String email;
+    private String status;
 
 }
